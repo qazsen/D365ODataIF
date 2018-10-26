@@ -1,8 +1,6 @@
-# Dynamics-AX-Integration
+# Dynamics-AX-Integration Using OData
 
 Sample Logic app templates have been added to the repository.
 
-
-
 Follow instructions below to deploy sample logic app
-https://github.com/Microsoft/Dynamics-AX-Integration/wiki/Deploying-sample-Logic-apps
+https://github.com/qazsen/D365ODataIF
